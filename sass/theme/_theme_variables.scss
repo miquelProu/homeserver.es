@@ -1,0 +1,18 @@
+// Use this file to overwrite the basic Bootstrap variables and add your own variables
+// To overwrite a Bootstrap variable you don´t have to touch the Bootstrap folder.
+// Just copy a variable from src/sass/bootstrap4/_variables.scss, paste it here and edit the value.
+
+
+$primary: #ec6c15; // Thats a sample how you could change a BootStrap variable.
+$secondary: #355e9c;
+
+$gris-clar:#e0e6ef;
+//$gris-clar-antic:#f9f9f9;
+$gris-fosc:#4a525c;
+
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:600&display=swap');
+
+$font-family-base: 'Cabin', sans-serif;
+$font-family-titols: 'Josefin Sans', sans-serif;
+$pading: 60px;
